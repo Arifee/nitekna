@@ -1,5 +1,4 @@
-
-#!/usr/bin/bash
+#!/bin/bash
 
 sudo killall java
 exit 0
